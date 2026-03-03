@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9CA3AF&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%26+Next.js+Engineer;UI%2FUX+Focused;Performance+Driven+Developer" />
 </p>
 
-I’m a **proficient Frontend Developer** with a strong passion for building **modern, scalable and high-performance web applications**.  
+I’m a **proficient Software Developer** with a strong passion for building **modern, scalable and high-performance web applications**.  
 I specialize in **React.js**, **Next.js**, **javascript** and love crafting **clean UI experiences** backed by solid backend logic.
 I believe great software is built at the intersection of:
 **Clean Code • Performance • User Experience**
